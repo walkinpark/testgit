@@ -1,0 +1,1 @@
+c:\users\zhangyu\documents\visual studio 2015\Projects\NHibernate Mapping S1\Samples\Class Mapping\ClassWithFilter\bin\Debug\ClassWithFilter.exe.config

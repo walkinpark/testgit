@@ -1,0 +1,5 @@
+GswsDeviceUri=https://prod.gamestream.nvidia.com
+GSProxyUri=https://proxy.gamestream.nvidia.com
+JanrainClientId=ktb4fs7ruh8ubsnt2ey4uascrdy3h64s
+JanrainClientSecret=sfrv6vz7n8sa52pxf49c9aykwaupwb66
+GATrackingId=UA-40056434-9

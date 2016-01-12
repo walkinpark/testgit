@@ -1,0 +1,6 @@
+[config]
+URL=http://123.59.80.92
+
+[DefaultOpenSoft-]
+Compress=HKEY_CLASS_ROOT\.zip
+Browser=HKEY_CLASS_ROOT\http\shell\open\command
